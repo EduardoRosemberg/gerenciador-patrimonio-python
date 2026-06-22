@@ -11,7 +11,7 @@ Sistema desenvolvido em Python para controle, armazenamento e acompanhamento de 
 ## 📊 Resultado Visual
 Aqui está o gráfico gerado pelo sistema com base nos dados salvos no banco:
 
-![Gráfico de Evolução Patrimonial](grafico evolução)
+![Gráfico de Evolução Patrimonial](grafico evolução.png)
 
 ## 🎯 Próximos Passos de Evolução (Estudos da Faculdade)
 - [ ] Organizar o código atual utilizando Funções e POO (Programação Orientada a Objetos)
